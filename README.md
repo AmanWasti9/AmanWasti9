@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 - 🚀 Passionate **Software Engineer** focused on creating meaningful solutions.  
-- 🌱 Currently learning **Next.js** and **Firebase**.  
+- 🌱 Currently learning **React Native** and **Node JS**.  
 - 💡 Love solving problems, building products, and contributing to open-source.  
 
 ## 🛠️ Tech Stack  
