@@ -27,15 +27,15 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanWasti9&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://aman-github-stats.vercel.app/api?username=AmanWasti9&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AmanWasti9&theme=radical)
 
-## 🧠 Most Used Languages
+## 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanWasti9&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://aman-github-stats.vercel.app/api/top-langs/?username=AmanWasti9&layout=compact&theme=radical&langs_count=8)
 
 
 ## 🔥 Fun Fact  
