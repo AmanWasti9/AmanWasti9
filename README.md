@@ -24,14 +24,19 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
-## 📊 GitHub Stats
-![AmanWasti9's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanWasti9&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanWasti9&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+## 🔥 Contribution Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=AmanWasti9&theme=radical)
 
-## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanWasti9&layout=compact&theme=radical)
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanWasti9&layout=compact&theme=radical&langs_count=8)
+
 
 ## 🔥 Fun Fact  
 🌟 “First, solve the problem. Then, write the code.” – John Johnson  
