@@ -1,6 +1,6 @@
 # Hi, I'm Syed Amanullah Wasti 👋
 
-### Software Engineer | Full-Stack & Product Development
+### Software Engineer | Full-Stack & Product Developer
 
 I build scalable web and cross-platform mobile applications, and I enjoy turning ideas into practical products through clean code, thoughtful architecture and user-focused development.
 
@@ -8,38 +8,6 @@ I build scalable web and cross-platform mobile applications, and I enjoy turning
 - 💻 Building with React, Next.js, React Native, Node.js, NestJS and Spring Boot
 - 📦 Publishing open-source React hooks on npm
 - 🚀 Interested in SaaS products, system design and scalable software architecture
-
----
-
-## 📦 Open Source Packages
-
-### [use-smart-loading](https://www.npmjs.com/package/use-smart-loading)
-
-A React hook for async loading states, with a minimum loader duration to reduce flicker and protection against stale results.
-
-[![npm version](https://img.shields.io/npm/v/use-smart-loading)](https://www.npmjs.com/package/use-smart-loading)
-![TypeScript types](https://img.shields.io/npm/types/use-smart-loading)
-![License](https://img.shields.io/npm/l/use-smart-loading)
-
-```bash
-npm install use-smart-loading
-```
-
-[npm](https://www.npmjs.com/package/use-smart-loading) · [Source code](https://github.com/AmanWasti9/use-smart-loading)
-
-### [react-safe-timers](https://www.npmjs.com/package/react-safe-timers)
-
-A React hook that automatically clears `setTimeout`, `setInterval` and `requestAnimationFrame` when a component unmounts.
-
-[![npm version](https://img.shields.io/npm/v/react-safe-timers)](https://www.npmjs.com/package/react-safe-timers)
-![TypeScript types](https://img.shields.io/npm/types/react-safe-timers)
-![License](https://img.shields.io/npm/l/react-safe-timers)
-
-```bash
-npm install react-safe-timers
-```
-
-[npm](https://www.npmjs.com/package/react-safe-timers) · [Source code](https://github.com/AmanWasti9/react-safe-timers)
 
 ---
 
@@ -79,6 +47,38 @@ npm install react-safe-timers
 
 ---
 
+## 📦 Open Source Packages
+
+### [use-smart-loading](https://www.npmjs.com/package/use-smart-loading)
+
+A React hook for async loading states, with a minimum loader duration to reduce flicker and protection against stale results.
+
+[![npm version](https://img.shields.io/npm/v/use-smart-loading)](https://www.npmjs.com/package/use-smart-loading)
+![TypeScript types](https://img.shields.io/npm/types/use-smart-loading)
+![License](https://img.shields.io/npm/l/use-smart-loading)
+
+```bash
+npm install use-smart-loading
+```
+
+[npm](https://www.npmjs.com/package/use-smart-loading) · [Source code](https://github.com/AmanWasti9/use-smart-loading)
+
+### [react-safe-timers](https://www.npmjs.com/package/react-safe-timers)
+
+A React hook that automatically clears `setTimeout`, `setInterval` and `requestAnimationFrame` when a component unmounts.
+
+[![npm version](https://img.shields.io/npm/v/react-safe-timers)](https://www.npmjs.com/package/react-safe-timers)
+![TypeScript types](https://img.shields.io/npm/types/react-safe-timers)
+![License](https://img.shields.io/npm/l/react-safe-timers)
+
+```bash
+npm install react-safe-timers
+```
+
+[npm](https://www.npmjs.com/package/react-safe-timers) · [Source code](https://github.com/AmanWasti9/react-safe-timers)
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -96,8 +96,5 @@ npm install react-safe-timers
   </a>
   <a href="https://www.linkedin.com/in/aman-wasti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.warq.io">
-    <img src="https://img.shields.io/badge/Warq-333333?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Warq" />
   </a>
 </p>
